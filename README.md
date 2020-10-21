@@ -8,4 +8,19 @@ A simple deep learning based video analysis system, including a frontend to acce
 
 - Extract the audio from the video.
 
-Currently, the system is under development.
+## Showcase
+1. Upload video to the system for further processing.
+
+
+2. Perform object detection on the video.
+
+
+3. Extract the audio from the video.
+
+## Requirement
+- Ubuntu 18.04.4 LTS
+- Python 3.7.6
+- Frameworks and tools: TensorFlow 1.13.1, Keras 2.3.1, imageAI 2.1.5, Flask 1.1.1
+
+## About Me
+**Shuokang Huang** is currently working toward the M.Sc. degree in Computer Applied Technology in Peking University, China. He received the B.Eng. degree in Electronic Information Science and Technology from Sun Yat-sen University, Guangzhou, Guangdong, China, in 2018. His research interests are semi-supervised adversarial learning, heterogeneous feature embedding, deep neural networks and machine learning.
