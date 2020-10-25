@@ -13,15 +13,19 @@ The frontend is several static pages, while the backend is based on the Flask fr
 ## Showcase
 ### 1. Upload video to the system for further processing.
 
-![select-models](Video_Analysis/demo/0-demo-upload.gif)
+![select-models](demo/0-demo-upload.gif)
 
 ### 2. Perform object detection on the video.
 
-![select-models](Video_Analysis/demo/1-demo-detection.gif)
+![select-models](demo/1-demo-detection.gif)
 
 ### 3. Extract the audio from the video.
 
-![select-models](Video_Analysis/demo/2-demo-audio-extraction.gif)
+![select-models](demo/2-demo-audio-extraction.gif)
+
+### 4. Serve multiple users simultaneously.
+
+![select-models](demo/3-demo-multiple-users.gif)
 
 ## Requirement
 - Ubuntu 18.04.4 LTS.
